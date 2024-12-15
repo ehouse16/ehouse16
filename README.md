@@ -1,4 +1,4 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5EA&width=435&lines=Welcome+to+Soyun's+GitHub" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A5EA&background=FF80DE24&center=true&vCenter=true&width=435&lines=Welcome+to+Soyun's+GitHub" alt="Typing SVG" /></a>
 <!--
 **ehouse16/ehouse16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 [![Soyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehouse16)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehouse16)](https://solved.ac/ehouse16/)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehouse16)](https://github.com/anuraghazra/github-readme-stats)-->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={ehouse16}&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle={ehouse16}&theme=cold"/>
 
