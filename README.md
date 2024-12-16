@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Studying </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
