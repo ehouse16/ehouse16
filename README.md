@@ -7,16 +7,16 @@
 
 <div style="border-left: 6px solid #d8dee4; background-color: #f5f5f5; padding: 20px; margin: 20px 0; border-radius: 10px;">
   <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin-bottom: 10px;">
-    <span style="font-size: 18px;">🚀</span> 새로운 기술을 적극적으로 탐색합니다.
+    <span style="font-size: 18px;">🚀</span> <strong>새로운 기술</strong>을 적극적으로 탐색합니다.
   </p>
   <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin-bottom: 10px;">
-    <span style="font-size: 18px;">🎯</span> 하나의 작업에 몰입하여 끝까지 완성하는 코딩을 지향합니다.
+    <span style="font-size: 18px;">🎯</span> 하나의 작업에 <strong>몰입</strong>하여 끝까지 완성하는 코딩을 지향합니다.
   </p>
   <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin-bottom: 10px;">
-    <span style="font-size: 18px;">📚</span> 지속적인 성장과 자기주도적인 학습을 실천합니다.
+    <span style="font-size: 18px;">📚</span> <strong>지속적인 성장</strong>과 <strong>자기주도적인 학습</strong>을 실천합니다.
   </p>
   <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin: 0;">
-    <span style="font-size: 18px;">🤝</span> 소통과 신뢰를 바탕으로 팀원들과 협업합니다.
+    <span style="font-size: 18px;">🤝</span> <strong>소통과 신뢰</strong>를 바탕으로 팀원들과 협업합니다.
   </p>
 </div>
 
