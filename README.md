@@ -30,6 +30,21 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 </div>
 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Pinned Projects 소개</h2>
+ <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
+    <h4 style="margin: 0;">📝 soyun_board</h4>
+    <p style="margin: 5px 0 0 0;">
+      Spring Boot와 React를 활용해 개발한 게시판 웹 애플리케이션입니다.
+    </p>
+  </div>
+
+  <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
+    <h4 style="margin: 0;">🌌 Ulverse-Team/Ulverse-BE</h4>
+    <p style="margin: 5px 0 0 0;">
+      DevCamp 파이널 팀 프로젝트로, Java와 Spring Boot를 기반으로 한 쇼핑몰 프로젝트입니다.<br/>
+    </p>
+  </div>
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 연락처 및 블로그 </h2>
 <div style="text-align: left;">
     <a href="https://velog.io/@ehouse16/posts">
@@ -41,3 +56,4 @@
 </div>
 <br/>
 <p>📫 이메일: <a href="mailto:ehouse16@naver.com">ehouse16@naver.com</a></p>
+
