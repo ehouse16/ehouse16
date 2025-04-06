@@ -20,7 +20,7 @@
   </p>
 </div>
 
-
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 현재 학습 및 활용 중인 기술 스택 </h2>
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -31,9 +31,10 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 </div>
 <br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ehouse16&show_icons=true&theme=tokyonight&hide_title=true" alt="소윤님의 GitHub Stats" height="180" />
 <br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Pinned Projects 소개</h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Projects 소개</h2>
  <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
     <h4 style="margin: 0;">📝 soyun_board</h4>
     <p style="margin: 5px 0 0 0;">
