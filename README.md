@@ -18,9 +18,7 @@
   <li>이해하기 어렵고 복잡한 코드를 작성하지 않으려 노력합니다.</li>
   <li>명확한 기준 없이 진행되는 개발 프로세스를 지양합니다.</li>
 </ul>
-
 <br>
-
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 현재 학습 및 활용 중인 기술 스택 </h2>
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -30,9 +28,9 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 </div>
-
 <br>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ehouse16&show_icons=true&theme=tokyonight&hide_title=true" alt="소윤님의 GitHub Stats" height="180" />
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Pinned Projects 소개</h2>
  <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
     <h4 style="margin: 0;">📝 soyun_board</h4>
@@ -47,9 +45,7 @@
       DevCamp 파이널 팀 프로젝트로, Java와 Spring Boot를 기반으로 한 쇼핑몰 프로젝트입니다.<br/>
     </p>
   </div>
-
 <br>
-
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 연락처 및 블로그 </h2>
 <div style="text-align: left;">
     <a href="https://velog.io/@ehouse16/posts">
@@ -61,4 +57,5 @@
 </div>
 <br/>
 <p>📫 이메일: <a href="mailto:ehouse16@naver.com">ehouse16@naver.com</a></p>
+
 
