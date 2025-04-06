@@ -3,22 +3,24 @@
     안녕하세요! <br>
     새로운 기술에 대한 호기심과 책임감을 바탕으로 꾸준히 성장하고 있는 백엔드 개발자 박소윤입니다.<br/>
 </div>
-
-<h4>💖 선호하는 개발 방식</h4>
-<ul align="left">
-  <li>새로운 기술을 적극적으로 탐색합니다.</li>
-  <li>하나의 작업에 몰입하여 끝까지 완성하는 코딩을 지향합니다.</li>
-  <li>지속적인 성장과 자기주도적인 학습을 실천합니다.</li>
-  <li>소통과 신뢰를 바탕으로 팀원들과 협업합니다.</li>
-</ul>
-
-<h4>🙅‍♀️ 지양하는 개발 방식</h4>
-<ul align="left">
-  <li>책임감이 결여된 개발 문화를 지양합니다.</li>
-  <li>이해하기 어렵고 복잡한 코드를 작성하지 않으려 노력합니다.</li>
-  <li>명확한 기준 없이 진행되는 개발 프로세스를 지양합니다.</li>
-</ul>
 <br>
+
+<div style="border-left: 6px solid #d8dee4; background-color: #f5f5f5; padding: 20px; margin: 20px 0; border-radius: 10px;">
+  <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin-bottom: 10px;">
+    <span style="font-size: 18px;">🚀</span> 새로운 기술을 적극적으로 탐색합니다.
+  </p>
+  <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin-bottom: 10px;">
+    <span style="font-size: 18px;">🎯</span> 하나의 작업에 몰입하여 끝까지 완성하는 코딩을 지향합니다.
+  </p>
+  <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin-bottom: 10px;">
+    <span style="font-size: 18px;">📚</span> 지속적인 성장과 자기주도적인 학습을 실천합니다.
+  </p>
+  <p style="background-color: #e6e6e6; padding: 10px 15px; border-radius: 8px; margin: 0;">
+    <span style="font-size: 18px;">🤝</span> 소통과 신뢰를 바탕으로 팀원들과 협업합니다.
+  </p>
+</div>
+
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 현재 학습 및 활용 중인 기술 스택 </h2>
 <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
