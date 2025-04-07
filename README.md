@@ -52,10 +52,10 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 연락처 및 블로그 </h2>
 <div style="text-align: left;">
     <a href="https://velog.io/@ehouse16/posts">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=social&logo=Velog" />
     </a>
     <a href="https://developer-soyun.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=social&logo=Tistory" />
     </a>
 </div>
 <br/>
