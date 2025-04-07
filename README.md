@@ -48,6 +48,14 @@
       DevCamp 파이널 팀 프로젝트로, Java와 Spring Boot를 기반으로 한 쇼핑몰 프로젝트입니다.<br/>
     </p>
   </div>
+
+  <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
+  <h4 style="margin: 0;">🧩 Algorithm</h4>
+  <p style="margin: 5px 0 0 0;">
+    다양한 알고리즘 문제를 Java로 풀이하고 정리한 저장소입니다.<br/>
+  </p>
+</div>
+
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💌 연락처 및 블로그 </h2>
 <div style="text-align: left;">
