@@ -36,9 +36,10 @@
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Projects 소개</h2>
  <div style="padding: 15px; border: 1px solid #d8dee4; border-radius: 10px; background-color: #f9f9f9;">
-    <h4 style="margin: 0;">📝 soyun_board</h4>
+    <h4 style="margin: 0;">📝 Feelink</h4>
     <p style="margin: 5px 0 0 0;">
-      Spring Boot와 React를 활용해 개발한 게시판 웹 애플리케이션입니다.
+      Spring Boot와 React를 활용해 개발한 일기를 쓰는 웹 애플리케이션입니다.<br>
+        AI를 활용하여 그 날 작성한 일기의 감정을 분석할 수 있습니다. 
     </p>
   </div>
 
