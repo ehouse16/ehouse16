@@ -70,6 +70,4 @@
   </a>
 </div>
 <br/>
-<p>📫 이메일: <a href="mailto:ehouse16@naver.com">ehouse16@naver.com</a></p>
-
 
