@@ -71,3 +71,4 @@
 </div>
 <br/>
 
+📧 **Email:** [soyun.api@kakao.com](mailto:soyun.api@kakao.com)
